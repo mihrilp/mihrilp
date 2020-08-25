@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I believe aliens 👽
 <br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 ![html-5(1)](https://user-images.githubusercontent.com/58886855/91190222-077cfc00-e6fc-11ea-9e84-273802375c0b.png)
 ![css](https://user-images.githubusercontent.com/58886855/91190586-69d5fc80-e6fc-11ea-818c-4ca849710ee3.png)
@@ -13,6 +15,5 @@
 ![pngegg](https://user-images.githubusercontent.com/58886855/91191288-42cbfa80-e6fd-11ea-82cc-e69e4066f9e9.png)
 ![32px-Visual_Studio_Code_1 18_icon svg](https://user-images.githubusercontent.com/58886855/91191979-18c70800-e6fe-11ea-8040-3110315cbe1d.png)
 
-<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+

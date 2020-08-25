@@ -5,8 +5,7 @@
 - 🌱 What I’m currently learning probably has changed
 - ⚡ Fun fact: I believe aliens 👽
 <br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true"/>
 
 ### Languages and Tools:
 ![html-5(1)](https://user-images.githubusercontent.com/58886855/91190222-077cfc00-e6fc-11ea-9e84-273802375c0b.png)

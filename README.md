@@ -5,14 +5,19 @@
 - 🌱 What I’m currently learning probably has changed
 - ⚡ Fun fact: I believe aliens 👽
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true&theme=radical"/>
 
-### Languages and Tools:
-![html-5(1)](https://user-images.githubusercontent.com/58886855/91190222-077cfc00-e6fc-11ea-9e84-273802375c0b.png)
-![css](https://user-images.githubusercontent.com/58886855/91190586-69d5fc80-e6fc-11ea-818c-4ca849710ee3.png)
-![pngegg-1](https://user-images.githubusercontent.com/58886855/91191810-e9180000-e6fd-11ea-9b0c-75f9b5b2a70d.png)
-![pngegg](https://user-images.githubusercontent.com/58886855/91191288-42cbfa80-e6fd-11ea-82cc-e69e4066f9e9.png)
-![32px-Visual_Studio_Code_1 18_icon svg](https://user-images.githubusercontent.com/58886855/91191979-18c70800-e6fe-11ea-8040-3110315cbe1d.png)
+### 🛠 Languages and Tools:
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
-
+## 🤝🏻 Get in touch:
+<a href="https://www.linkedin.com/in/mihrialp/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://www.reddit.com/user/mihrilp"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
+<a href="https://twitter.com/mihriinspace"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+<a href="https://open.spotify.com/user/cl13omk222r2v8e3l70oxn6q8?si=DyzKEKv8QLOpuvtDQB7Sjw"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+<a href="https://discordapp.com/users/3309/"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>

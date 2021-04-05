@@ -3,7 +3,7 @@
 <br><br>
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on [scientific-calculator](https://github.com/mihrilp/scientific-calculator)
+- 🔭 I’m currently working on [personal-website](https://github.com/mihrilp/personal-website)
 - 🌱 What I’m currently learning probably has changed
 - ⚡ Fun fact: I believe aliens 👽
 <br>

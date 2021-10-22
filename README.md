@@ -1,6 +1,4 @@
 ### Hi there, I'm Mihri 👋 <br/>
-![giphy](https://user-images.githubusercontent.com/58886855/91183387-1495ed00-e6f4-11ea-8cdd-547e379eb704.gif)
-<br><br>
 
 ### 👩‍💻 About Me
 - 🔭 I’m currently working on [personal-website](https://github.com/mihrilp/personal-website)

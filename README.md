@@ -1,7 +1,7 @@
 ### Hi there, I'm Mihri 👋 <br/>
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on [personal-website](https://github.com/mihrilp/personal-website)
+- 🔭 I’m currently working on [iGotThis](https://github.com/mihrilp/iGotThis)
 - 🌱 What I’m currently learning probably has changed
 - ⚡ Fun fact: I believe aliens 👽
 <br>

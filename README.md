@@ -1,7 +1,5 @@
 # Hi there, I'm Mihri 👋 <br/>
 
-<img align="right" width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-
 🔭 I’m currently working on [iGotThis](https://github.com/mihrilp/iGotThis) <br>
 🌱 What I’m currently learning probably has changed <br>
 ⚡ Fun fact: I believe aliens 👽

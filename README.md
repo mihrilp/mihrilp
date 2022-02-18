@@ -1,6 +1,5 @@
 ### Hi there, I'm Mihri 👋 <br/>
 
-### 👩‍💻 About Me
 - 🔭 I’m currently working on [iGotThis](https://github.com/mihrilp/iGotThis)
 - 🌱 What I’m currently learning probably has changed
 - ⚡ Fun fact: I believe aliens 👽
@@ -13,14 +12,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<br><br>
+<br>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/mihrilp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihrilp&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihrilp&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
+</p>-->
 
 ## 🤝🏻 Get in touch
 <a href="https://www.linkedin.com/in/mihrialp/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>

@@ -28,7 +28,6 @@
 ### Get in touch
 <a href="https://twitter.com/mihriinspace"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/mihribanalp/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://open.spotify.com/user/cl13omk222r2v8e3l70oxn6q8?si=DyzKEKv8QLOpuvtDQB7Sjw"> <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
 <a href="https://discordapp.com/users/3309/"> <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <br><br>
 

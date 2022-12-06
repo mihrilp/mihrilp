@@ -1,6 +1,6 @@
 # Hi there, I'm Mihri 👋 <br/>
 
-🔭 I’m currently working on [daily-prophet](https://github.com/mihrilp/daily-prophet) <br>
+🔭 I’m currently working on [personal-website](https://github.com/mihrilp/personal-website) <br>
 🌱 What I’m currently learning probably has changed <br>
 ⚡ Fun fact: I believe aliens 👽
 <br><br>

@@ -32,5 +32,4 @@
 <a href="https://discordapp.com/users/3309/"> <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <br><br>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=mihrilp&show_icons=true&theme=gotham" alt="mihrilp" />
 

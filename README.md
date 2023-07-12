@@ -26,10 +26,3 @@
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=663399)&nbsp;
 <br>
 
-### Get in touch
-<a href="https://twitter.com/mihriinspace"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/mihribanalp/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://discordapp.com/users/3309/"> <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<br><br>
-
-
